@@ -1,0 +1,46 @@
+{
+    "coord": {
+        "lon": 76.8138,
+        "lat": 43.2449
+    },
+    "weather": [
+        {
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 3.4,
+        "feels_like": 2.3,
+        "temp_min": 3.4,
+        "temp_max": 3.4,
+        "pressure": 1023,
+        "humidity": 34,
+        "sea_level": 1023,
+        "grnd_level": 934
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 1.38,
+        "deg": 186,
+        "gust": 1.35
+    },
+    "clouds": {
+        "all": 100
+    },
+    "dt": 1681347451,
+    "sys": {
+        "type": 1,
+        "id": 8818,
+        "country": "KZ",
+        "sunrise": 1681344889,
+        "sunset": 1681392695
+    },
+    "timezone": 21600,
+    "id": 1522192,
+    "name": "Pryamoy Put’",
+    "cod": 200
+}
